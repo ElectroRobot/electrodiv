@@ -1,17 +1,16 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+Electro-Robot est en constante évolution et propose de nouveaux contenus assez régulièrement. Cette mise à jour en continue vous permet d’enrichir votre expérience utilisateur en vous offrant des informations actualisées, des ressources diversifiées et des fonctionnalités améliorées. 
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+## Les activités
 
-## Nos activités
+Avec Electro-robot, j'ai également découvert autour de l'électronique, la programmation et la robotique :
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- Accompagnement à la **compréhension** du domaine de l'électronique numérique mais aussi analogique.
+- Conception, développement et test de **circuit numérique** comme les bascules, les compteurs, ...
+- **Autoformation** à travers des activités, des travaux dirigés, des exercices et des activités de découverte.
+- une liste recommandée d'outils et de solutions proposées par electro-robot !
+- etc. 
