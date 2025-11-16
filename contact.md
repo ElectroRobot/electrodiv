@@ -1,9 +1,7 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
-
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Vous chercher à nous contacter ou à proposer une nouvelle activité ! Je vous recommande vivement à prendre contact directement via : [training@electro-robot.com](mailto:training@electro-robot.com)
+` 
